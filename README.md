@@ -27,5 +27,5 @@
   - Link CSS File: In the <head> section of your HTML file, add a <link> tag to link the CSS file. Use the rel attribute with a value of "stylesheet" and the href attribute with the path to your CSS file.
 ![image](https://github.com/RastyFullStaxx/CSS-Course-Learnings/assets/133841842/34602df1-ba75-45f0-a247-8dba22ac5231)
 
-***
+---
 
